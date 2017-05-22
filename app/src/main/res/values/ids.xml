@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="Favorites" type="id">Favorites</item>
+    <item name="favorities" type="id">favorities</item>
+    <item name="share" type="id">share</item>
+</resources>
